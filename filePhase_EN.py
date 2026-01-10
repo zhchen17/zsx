@@ -169,4 +169,4 @@ if __name__ == "__main__":
     print('测试更新')
 
     print('更新来自mac')
-    print('二次更新mac')
+    print('二次更新mac。')
