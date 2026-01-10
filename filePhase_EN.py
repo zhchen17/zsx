@@ -167,3 +167,5 @@ if __name__ == "__main__":
 
     print('测试推送')
     print('测试更新')
+
+    print('test 3')
