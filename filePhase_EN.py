@@ -164,3 +164,5 @@ if __name__ == "__main__":
             json_path="./j1_mix.json",
             output_txt_path="./headings.txt"
         )
+
+    print('测试推送')
